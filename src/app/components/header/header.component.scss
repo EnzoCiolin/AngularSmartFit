@@ -18,6 +18,10 @@ header .logo-container{
     justify-content: center;
 }
 
+header .logo-container img{
+    height: 6.25rem;
+}
+
 header .text-container{
     display: flex;
     flex-direction: column;
